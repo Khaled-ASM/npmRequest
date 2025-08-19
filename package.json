@@ -7,5 +7,9 @@
 	"license": "Apache-2.0",
 	"dependencies": {
 		"@fnproject/fdk": ">=0.0.81"
-	}
+	},
+  "overrides": {
+	"ajv": "8.17.1",
+	"tough-cookie": "6.0.0"
+  }
 }
