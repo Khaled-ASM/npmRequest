@@ -1,6 +1,6 @@
 schema_version: 20180708
 name: npmrequest
-version: 0.0.1
+version: 0.0.5
 runtime: node
 build_image: fnproject/node:20-dev
 run_image: fnproject/node:20
